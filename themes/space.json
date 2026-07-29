@@ -1,0 +1,28 @@
+{
+  "name": "space",
+  "title": "Space",
+  "emoji": "🚀",
+  "description": "Mission control for your terminal",
+  "verbs": [
+    "Launching",
+    "Orbiting",
+    "Terraforming",
+    "Warping",
+    "Docking",
+    "Recalibrating",
+    "Stargazing",
+    "Refueling",
+    "Jettisoning",
+    "Spacewalking",
+    "Deorbiting",
+    "Slingshotting",
+    "Pressurizing",
+    "Telemetering",
+    "Moonwalking",
+    "Asteroid-dodging",
+    "Countdown-holding",
+    "Gravity-assisting",
+    "Nebula-gazing",
+    "Redshifting"
+  ]
+}

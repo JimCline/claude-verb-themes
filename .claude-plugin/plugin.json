@@ -1,0 +1,9 @@
+{
+  "name": "verb-themes",
+  "version": "0.2.0",
+  "description": "Fun, switchable spinner-verb theme packs for Claude Code. Pick one or stack several — pirate, wizard, cat, corporate, and more.",
+  "author": {
+    "name": "Jim Cline"
+  },
+  "keywords": ["spinner", "verbs", "themes", "fun", "customization"]
+}

@@ -1,0 +1,16 @@
+{
+  "description": "verb-themes — optional scheduled rotation of the spinner verb pack. Completely inert unless the user turns it on with /verb-themes schedule on.",
+  "hooks": {
+    "SessionStart": [
+      {
+        "matcher": "startup|resume|clear",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "python3 \"${CLAUDE_PLUGIN_ROOT}/hooks/rotate.py\" 2>/dev/null || true"
+          }
+        ]
+      }
+    ]
+  }
+}

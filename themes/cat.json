@@ -1,0 +1,28 @@
+{
+  "name": "cat",
+  "title": "Cat",
+  "emoji": "🐱",
+  "description": "Maximum effort, on the cat's schedule",
+  "verbs": [
+    "Purring",
+    "Pouncing",
+    "Kneading",
+    "Napping",
+    "Stalking",
+    "Meowing",
+    "Zooming",
+    "Grooming",
+    "Chirping",
+    "Loafing",
+    "Prowling",
+    "Yowling",
+    "Toe-beaning",
+    "Box-sitting",
+    "Keyboard-walking",
+    "Curtain-climbing",
+    "Hairball-processing",
+    "Sunbeam-chasing",
+    "Judging",
+    "Ignoring"
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "name": "wizard",
+  "title": "Wizard",
+  "emoji": "🧙",
+  "description": "Arcane incantations and questionable alchemy",
+  "verbs": [
+    "Conjuring",
+    "Transmuting",
+    "Scrying",
+    "Enchanting",
+    "Hexing",
+    "Divining",
+    "Spellbinding",
+    "Runecasting",
+    "Polymorphing",
+    "Levitating",
+    "Summoning",
+    "Bewitching",
+    "Alchemizing",
+    "Incanting",
+    "Prophesying",
+    "Wand-waving",
+    "Cauldron-stirring",
+    "Grimoire-thumbing",
+    "Mana-channeling",
+    "Beard-stroking"
+  ]
+}

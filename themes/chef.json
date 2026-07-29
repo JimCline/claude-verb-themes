@@ -1,0 +1,28 @@
+{
+  "name": "chef",
+  "title": "Chef",
+  "emoji": "👨‍🍳",
+  "description": "Michelin-star output, mise en place included",
+  "verbs": [
+    "Simmering",
+    "Whisking",
+    "Marinating",
+    "Julienning",
+    "Caramelizing",
+    "Flambéing",
+    "Kneading",
+    "Proofing",
+    "Plating",
+    "Garnishing",
+    "Reducing",
+    "Deglazing",
+    "Sautéing",
+    "Tempering",
+    "Braising",
+    "Zesting",
+    "Basting",
+    "Blanching",
+    "Taste-testing",
+    "Chef-kissing"
+  ]
+}

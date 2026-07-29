@@ -1,0 +1,28 @@
+{
+  "name": "pirate",
+  "title": "Pirate",
+  "emoji": "🏴‍☠️",
+  "description": "Plunderin' the seven seas while your code compiles",
+  "verbs": [
+    "Plunderin'",
+    "Swashbucklin'",
+    "Keelhaulin'",
+    "Marauding",
+    "Pillaging",
+    "Buccaneering",
+    "Hoisting",
+    "Swabbing",
+    "Mutinying",
+    "Parleying",
+    "Careening",
+    "Privateering",
+    "Doubloon-counting",
+    "Map-squinting",
+    "Plank-walking",
+    "Grog-swigging",
+    "Cannonballing",
+    "Barnacle-scraping",
+    "Yo-ho-hoing",
+    "Treasure-burying"
+  ]
+}

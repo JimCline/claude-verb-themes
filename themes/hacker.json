@@ -1,0 +1,28 @@
+{
+  "name": "hacker",
+  "title": "90s Hacker Movie",
+  "emoji": "💾",
+  "description": "It's a UNIX system. I know this.",
+  "verbs": [
+    "Decrypting",
+    "Rerouting",
+    "Triangulating",
+    "Enhancing",
+    "Bypassing",
+    "Uplinking",
+    "Compiling",
+    "Defragging",
+    "Tracerouting",
+    "Zooming",
+    "Jacking-in",
+    "Mainframe-hacking",
+    "Firewall-melting",
+    "GUI-interfacing",
+    "Keyboard-hammering",
+    "Nodes-pinging",
+    "Cyberspace-surfing",
+    "Modem-screeching",
+    "Password-guessing",
+    "Typing-furiously"
+  ]
+}

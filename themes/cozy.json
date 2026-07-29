@@ -1,0 +1,28 @@
+{
+  "name": "cozy",
+  "title": "Cozy Café",
+  "emoji": "☕",
+  "description": "Lo-fi beats to refactor to",
+  "verbs": [
+    "Brewing",
+    "Steeping",
+    "Percolating",
+    "Toasting",
+    "Snoozing",
+    "Knitting",
+    "Doodling",
+    "Humming",
+    "Frothing",
+    "Latte-arting",
+    "Blanket-nesting",
+    "Fire-crackling",
+    "Rain-listening",
+    "Page-turning",
+    "Candle-lighting",
+    "Marshmallow-floating",
+    "Sweater-wearing",
+    "Windowsill-gazing",
+    "Playlist-curating",
+    "Vibing"
+  ]
+}

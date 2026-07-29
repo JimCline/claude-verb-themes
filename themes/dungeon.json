@@ -1,0 +1,28 @@
+{
+  "name": "dungeon",
+  "title": "Dungeon Crawler",
+  "emoji": "🐉",
+  "description": "Roll for initiative on every keystroke",
+  "verbs": [
+    "Questing",
+    "Looting",
+    "Respawning",
+    "Grinding",
+    "Buffing",
+    "Debuffing",
+    "Crit-rolling",
+    "Dice-rolling",
+    "Dungeon-delving",
+    "Dragon-slaying",
+    "Potion-quaffing",
+    "Trap-disarming",
+    "Torch-lighting",
+    "Mimic-checking",
+    "XP-farming",
+    "Party-wiping",
+    "Save-scumming",
+    "Initiative-rolling",
+    "Rules-lawyering",
+    "Nat-twentying"
+  ]
+}

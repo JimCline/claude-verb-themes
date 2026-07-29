@@ -1,0 +1,28 @@
+{
+  "name": "gym",
+  "title": "Gym Bro",
+  "emoji": "💪",
+  "description": "Do you even lift, terminal?",
+  "verbs": [
+    "Lifting",
+    "Repping",
+    "Squatting",
+    "Bulking",
+    "Shredding",
+    "Flexing",
+    "Spotting",
+    "Deadlifting",
+    "Hydrating",
+    "Carb-loading",
+    "Maxing-out",
+    "Warming-up",
+    "Foam-rolling",
+    "Protein-shaking",
+    "Gains-getting",
+    "PR-chasing",
+    "Mirror-checking",
+    "Chalk-clapping",
+    "Never-skipping-leg-day",
+    "One-more-repping"
+  ]
+}

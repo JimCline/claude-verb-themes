@@ -1,0 +1,28 @@
+{
+  "name": "starwars",
+  "title": "Star Wars",
+  "emoji": "🌌",
+  "description": "Never tell me the odds",
+  "verbs": [
+    "Hello there",
+    "General Kenobi!",
+    "Claiming the high ground",
+    "Complaining about sand",
+    "Having a bad feeling about this",
+    "Never telling the odds",
+    "Bullseyeing womp rats",
+    "Shooing porgs off the console",
+    "Singing yub nub",
+    "Translating R2's beeping",
+    "Fretting like Threepio",
+    "Somehow, Palpatine returned",
+    "It's a trap (probably)",
+    "Chugging blue milk",
+    "Bravely defending Jar Jar",
+    "Inspecting the exhaust port",
+    "Herding nerfs",
+    "Loitering as a Force ghost",
+    "Cooing at Baby Yoda",
+    "Doing the Kessel Run in 12 parsecs"
+  ]
+}

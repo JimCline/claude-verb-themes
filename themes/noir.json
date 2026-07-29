@@ -1,0 +1,28 @@
+{
+  "name": "noir",
+  "title": "Detective Noir",
+  "emoji": "🕵️",
+  "description": "It was a dark and stormy build...",
+  "verbs": [
+    "Sleuthing",
+    "Snooping",
+    "Deducing",
+    "Shadowing",
+    "Tailing",
+    "Casing",
+    "Gumshoeing",
+    "Monologuing",
+    "Brooding",
+    "Interrogating",
+    "Staking-out",
+    "Trench-coating",
+    "Fedora-tipping",
+    "Clue-hunting",
+    "Alibi-checking",
+    "Whodunniting",
+    "Rain-watching",
+    "Case-cracking",
+    "Double-crossing",
+    "Squinting-suspiciously"
+  ]
+}
