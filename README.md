@@ -103,7 +103,11 @@ bash tests/test_rotate.sh
 
 **Classics:** 🏴‍☠️ Pirate · 🧙 Wizard · 🚀 Space · 🐱 Cat · 👨‍🍳 Chef · 💼 Corporate · 💾 90s Hacker Movie · 🕵️ Detective Noir · 💪 Gym Bro · 🐉 Dungeon Crawler · 🌊 Ocean · ☕ Cozy Café
 
-**Pop culture:** 🤖 Battlestar Galactica (2003) · 💍 Lord of the Rings · 🌌 Star Wars · 🎄 Die Hard · 🖖 Star Trek (all series) · ⭐ TOS · 🫖 TNG · 🪐 DS9 · ☄️ Voyager · 🎖️ Military Speak · 🥥 Monty Python
+**Sci-fi & fantasy:** 🤖 Battlestar Galactica (2003) · 💍 Lord of the Rings · 🌌 Star Wars · 🌀 Doctor Who (2005+) · 🚕 The Fifth Element · 🖖 Star Trek (all series) · ⭐ TOS · 🫖 TNG · 🪐 DS9 · ☄️ Voyager
+
+**Comedy:** 🥥 Monty Python · 📎 The Office · 🧇 Parks and Recreation · 🥨 Seinfeld · ⚽ Ted Lasso
+
+**Action & thriller:** 🎄 Die Hard · 🍸 James Bond · 🐕 John Wick · 🧠 Severance · 🎖️ Military Speak
 
 ## Adding your own pack (local)
 
